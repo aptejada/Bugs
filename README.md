@@ -1,2 +1,2 @@
 # Bugs
-Contains issues issues I have encountered while running pipelines
+Contains issues I have encountered while running pipelines
