@@ -1,5 +1,5 @@
 # Bugs
-Contains issues I have encountered while running metagenomic pipelines
+Contains issues I have encountered while running whole genome and metagenomic pipelines
 
 
 
